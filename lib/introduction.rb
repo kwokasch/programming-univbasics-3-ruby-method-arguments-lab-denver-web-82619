@@ -10,4 +10,5 @@ def introduction_with_language (name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-# Third, 
+# Third, define a method called "introduction_with_language_optional" that takes in a name and language, but language is optional. Default value for language is "Ruby"
+
